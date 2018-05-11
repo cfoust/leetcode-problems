@@ -1,0 +1,7 @@
+class Solution:
+    def isBipartite(self, graph):
+        """
+        :type graph: List[List[int]]
+        :rtype: bool
+        """
+                
